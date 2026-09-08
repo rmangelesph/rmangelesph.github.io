@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: rmangelesph.github.io/rmangeles
+  baseUrl: rmangelesph.github.io
   ignorePatterns:
     - private
     - templates
