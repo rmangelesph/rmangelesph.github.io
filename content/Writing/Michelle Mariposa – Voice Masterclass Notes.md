@@ -1,4 +1,5 @@
 ---
+title: Michelle Mariposa – Voice Masterclass Notes
 draft: false
 tags:
   - "#practice"
