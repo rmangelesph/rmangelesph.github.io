@@ -1,9 +1,10 @@
 ---
-title: '"Michelle Mariposa – Voice Masterclass Notes"'
+title: Michelle Mariposa – Voice Masterclass Notes
 draft: false
 tags:
   - "#practice"
 ---
+
 I had the chance to attend Michelle Mariposa's Voice Masterclass at the UP College of Music on September 2, 2026. I'm not a singer myself, but there were plenty of things I picked up from her lecture. These are my notes, and I hope they'll be useful to singers and other musicians alike. 
 
 Michelle Mariposa is a Filipino-Chinese mezzo-soprano who made history as one of the Grand Finals winners of the prestigious 2025 Metropolitan Opera Eric and Dominique Laffont Competition, where she received the Faith P. Geier Award.
