@@ -1,5 +1,5 @@
 ---
-title: Michelle Mariposa – Voice Masterclass Notes
+title: 'Michelle Mariposa – Voice Masterclass Notes'
 draft: false
 tags:
   - "#practice"
