@@ -3,6 +3,7 @@ title: Michelle Mariposa – Voice Masterclass Notes
 draft: false
 tags:
   - "#practice"
+date: 2026-09-09
 ---
 
 I had the chance to attend Michelle Mariposa's Voice Masterclass at the UP College of Music on September 2, 2026. I'm not a singer myself, but there were plenty of things I picked up from her lecture. These are my notes, and I hope they'll be useful to singers and other musicians alike. 
