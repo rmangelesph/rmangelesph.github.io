@@ -3,6 +3,7 @@ title: Michelle Mariposa – Voice Masterclass Notes
 draft: false
 tags:
   - "#practice"
+  - "#masterclass"
 date: 2026-09-09
 ---
 
