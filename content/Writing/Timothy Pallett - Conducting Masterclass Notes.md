@@ -1,6 +1,6 @@
 ---
 title: Just Be Cool – Conducting Masterclass with Timothy Pallett
-draft: true
+draft: false
 tags:
   - conducting
   - "#masterclass"
