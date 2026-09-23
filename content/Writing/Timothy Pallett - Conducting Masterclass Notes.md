@@ -12,6 +12,8 @@ I attended a Conducting Masterclass on September 3, 2026, at the Centro Escolar 
 
 Timothy Pallett is a conductor and choral clinician from Pretoria, South Africa. He presented at the International Federation for Choral Music (IFCM) Online Café, and spoke at the World Symposium on Choral Music 2026 in Macau on "Choral Works by Emerging South African Composers."
 
+---
+
 ## Shosholoza
 
 Tim introduced us to *Shosholoza*, a South African folk song usually described as a miner's song sung with a mix of Ndebele and Zulu. It's often called South Africa's second national anthem.
