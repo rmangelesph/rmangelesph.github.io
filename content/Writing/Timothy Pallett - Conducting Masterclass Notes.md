@@ -52,7 +52,7 @@ So this is a song with several lives. It began as a work song, became a protest 
 
 At some point during the masterclass, Tim taught us a dance. He called it the Madiba Shuffle.
 
-Madiba is Nelson Mandela's clan name. The shuffle was his—his signature dance move. A double fist raised in a curved position, a slight shake of the body, the legs moving around the knees. Nothing flashy. He first did it publicly at his 72nd birthday celebration in 1990, his first birthday as a free man after twenty-seven years in prison. He danced to the music of Thandi Klaasen at Kippies in Johannesburg. He danced again in 1999, on stage with Johnny Clegg in France, and told the crowd, "It is music and dancing that makes me at peace with the world and at peace with myself."
+Madiba is Nelson Mandela's clan name. The shuffle was his signature dance move. A double fist raised in a curved position, a slight shake of the body, the legs moving around the knees. Nothing flashy. He first did it publicly at his 72nd birthday celebration in 1990, his first birthday as a free man after twenty-seven years in prison. He danced to the music of Thandi Klaasen at Kippies in Johannesburg. He danced again in 1999, on stage with Johnny Clegg in France, and told the crowd, "It is music and dancing that makes me at peace with the world and at peace with myself."
 
 Tim's instruction while teaching us was simple: **keep it small and groovy.**
 
