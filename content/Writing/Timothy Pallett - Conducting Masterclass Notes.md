@@ -62,6 +62,8 @@ The point isn't the size of the movement. It's the ease. Mandela's shuffle wasn'
 
 It's also worth noting what kind of dance it is—one that asks for restraint instead of display, and groove instead of spectacle. I think that's why Tim taught it in a conducting masterclass. It's a good thing to have in your body.
 
+![Nelson Mandela South Africa's President - Madiba Dance Video](https://www.youtube.com/watch?v=0iQzHZ4pM28)
+
 ## Cueing
 
 Tim said something about cueing that stuck with me:
