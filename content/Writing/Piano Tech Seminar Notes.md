@@ -264,3 +264,7 @@ A regularly tuned piano:
 An out-of-tune piano can quietly affect musical learning. When students practice or rehearse with an instrument that isn't properly tuned, it can interfere with pitch recognition and intonation. This is especially important for singers, who rely on a stable, accurate pitch to train their ears and voices.
 
 Whether your piano is used for practice, teaching, accompanying, or performance, keeping it in tune supports better musicianship and a better learning environment. That's the whole point — not perfection, just an instrument that lets you do your best work.
+
+---
+
+*These notes are based on Joshua Buenaventura's Yamaha Piano Technician Seminar I attended, supplemented with research Yamaha's official maintenance guidance and the Piano Technician's Guild.
