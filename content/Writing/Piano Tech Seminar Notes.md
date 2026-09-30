@@ -267,4 +267,4 @@ Whether your piano is used for practice, teaching, accompanying, or performance,
 
 ---
 
-*These notes are based on Joshua Buenaventura's Yamaha Piano Technician Seminar I attended, supplemented with research Yamaha's official maintenance guidance and the Piano Technician's Guild.
+*These notes are based on Joshua Buenaventura's Yamaha Piano Technician Seminar I attended, supplemented with research from Yamaha's official maintenance guidance and the Piano Technician's Guild.*
