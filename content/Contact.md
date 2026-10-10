@@ -14,4 +14,5 @@ rmangelesph@gmail.com
 
 - [Facebook](https://www.facebook.com/share/17sQboGxSd/)
 - [YouTube](https://www.youtube.com/@rmangelesph)
-- [MuseScore Profile](https://www.musescore.com/user/66901519)
+- [MuseScore](https://www.musescore.com/user/66901519)
+- [Donations](https://ko-fi.com/rmangelesph))
